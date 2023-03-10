@@ -1,5 +1,5 @@
 import { Box } from "@chakra-ui/react";
-import { Transaction } from "./components/template/Transaction";
+import { Transaction } from "./components/templates/Transaction";
 
 function App() {
   return (
